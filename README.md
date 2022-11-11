@@ -1,13 +1,22 @@
 # OOP-Project-2K22
-Fuel System Management System with User and Admin Panel Loging 
+Online Fuel System Management System with User and Admin Panel Loging 
 
 🎖️ USER CAN REGISTER TO THE SYSTEM.
 
 🎖️ USER CAN LOGIN TO THE SEPARATE PROFILES WITH AVAILABLE CREDENTIALS
 
+🎖️ IMPROVED WITH JS VALIDATION
+
+🎖️ BOOSTRAP UI/UX #bootstrap@5.2.2
+
+🎖️ OOP CONCEPTS ALSO ADDED
+
 🎖️ CREATE DATABASE NAME AS userdb
 
-🎖️ IMPORT TABLES FROM MySQL
+🎖️ Tomcat servet v8.5 with MySQL Workbench
+
+🎖️ Frontend Implementation (MVC Architecture)  🎖️ Apply OOP Concepts🎖️ Data Access logic (CRUD Operation) and Business logic Implementation🎖️ Coding Conventions 🎖️🎖️ Application Usability and HCI features
+
 
 ⭕️⭕️⭕️⭕️⭕️⭕️⭕️⭕️⭕️⭕️⭕️⭕️⭕️⭕️⭕️⭕️⭕️
 
