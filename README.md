@@ -1,6 +1,6 @@
 # OOP-Project-2K22
 
-⭐ Online Fuel System Management System with User and Admin Panel Logings 
+⭐ Online Fuel Management System with User and Admin Panel Logings 
 
 🎖️ USER CAN REGISTER TO THE SYSTEM.
 
