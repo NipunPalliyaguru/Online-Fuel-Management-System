@@ -28,6 +28,17 @@
 Login Page
 </h2>
 
+
+![image](https://github.com/NipunPalliyaguru/Online-Fuel-Management-System/assets/99266866/b1efa57f-cc5d-4c1c-bfa3-9943f8855902)
+
+![image](https://github.com/NipunPalliyaguru/Online-Fuel-Management-System/assets/99266866/b32d3ad3-03cc-4f64-bc7b-d3c12f79610f)
+
+
+![image](https://github.com/NipunPalliyaguru/Online-Fuel-Management-System/assets/99266866/391d6e48-5c31-40d5-b77d-e63a909eed00)
+
+
+<!--
+
 ![image](https://user-images.githubusercontent.com/99266866/201371879-071af6bb-e054-4326-9c44-fef5ab9b944e.png)
 
 
@@ -60,7 +71,7 @@ Footer
 
 <p align="center">
 
-
+-->
 
 <img src="https://user-images.githubusercontent.com/99266866/206965834-56b1d72c-1bb4-4110-bb6a-583faf802ae7.gif">
 
